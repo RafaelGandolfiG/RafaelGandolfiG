@@ -1,34 +1,26 @@
 <h1 align="left">👋 Hello! I'm Rafael</h1>
 
-###
 
 <h2 align="left">Computer Science Student</h2>
 
-###
 
 <p align="left">🎓 I’m currently studying Computer Science at FIAP.</p>
 
-###
 
 <p align="left">🏫 I graduated from Colégio Marista Arquidiocesano de São Paulo.</p>
 
-###
 
 <p align="left">I’m very happy and excited about my journey in tech, always interested in learning new technologies and improving my skills. I enjoy exploring how systems work, building projects, and constantly growing as a developer.</p>
 
-###
 
 <h3 align="left">📫 Contact</h3>
 
-###
 
 <p align="left">📧 rafaelgandolfi0@gmail.com</p>
 
-###
 
 <h2 align="left">Currently Studing</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -49,4 +41,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+
+📊 GitHub Stats & Contributions
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelGandolfiG&show_icons=true&theme=tokyonight" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGandolfiG&layout=compact&theme=tokyonight" height="165" alt="Most used languages" />
+</div>
+
+🟡 Pac-Man Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RafaelGandolfiG/RafaelGandolfiG/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+</p>
+
+🐍 Snake Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+</p>
