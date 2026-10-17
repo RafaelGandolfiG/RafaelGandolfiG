@@ -49,8 +49,14 @@
 </div>
 
 
-<h2 align="center">🐱 Pac-Man Contributions</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelGandolfiG/RafaelGandolfiG/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
+  <table>
+    <tr>
+      <td bgcolor="#000000">
+        <img src="https://raw.githubusercontent.com/RafaelGandolfiG/RafaelGandolfiG/output/pacman-contribution-graph-dark.svg" alt="Pac-Man animation" />
+      </td>
+    </tr>
+  </table>
 </div>
+
