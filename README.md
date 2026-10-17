@@ -48,12 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGandolfiG&layout=compact&theme=tokyonight" height="165" alt="Most used languages" />
 </div>
 
-🟡 Pac-Man Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RafaelGandolfiG/RafaelGandolfiG/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
-</p>
 
-🐍 Snake Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-</p>
+<h2 align="center">🐱 Pac-Man Contributions</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RafaelGandolfiG/RafaelGandolfiG/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
+</div>
